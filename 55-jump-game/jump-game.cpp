@@ -12,7 +12,7 @@ public:
             if (maxReach >= nums.size() - 1)
                 return true;
         }
-wae;lfjaeirugfjsefa
+
         return true;
     }
 };

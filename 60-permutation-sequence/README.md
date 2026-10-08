@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/permutation-sequence">Permutation Sequence</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>The set <code>[1, 2, 3, ...,&nbsp;n]</code> contains a total of <code>n!</code> unique permutations.</p>
+udd<h2><a href="https://leetcode.com/problems/permutation-sequence">Permutation Sequence</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>The set <code>[1, 2, 3, ...,&nbsp;n]</code> contains a total of <code>n!</code> unique permutations.</p>
 
 <p>By listing and labeling all of the permutations in order, we get the following sequence for <code>n = 3</code>:</p>
 

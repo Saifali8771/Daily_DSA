@@ -1,4 +1,4 @@
-cubcthj#include <string>
+#include <string>
 #include <vector>
 
 class Solution {

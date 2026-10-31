@@ -1,4 +1,4 @@
-jsolution\ Solution {
+ Solution {
 public:
     int uniquePaths(int m, int n) {
         int totalSteps = m + n - 2;

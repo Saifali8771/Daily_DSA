@@ -1,13 +1,11 @@
 #include <vector>
 #include <algorithm>
-
 using namespace std;
 
 class Solution {
 public:
     int longestMonotonicSubarray(vector<int>& nums) {
         if (nums.empty()) return 0;
-        
         int max_len = 1;
         int inc_len = 1;
         int dec_len = 1;

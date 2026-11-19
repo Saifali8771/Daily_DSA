@@ -1,4 +1,4 @@
-fghbtrygr#include <vector>
+#include <vector>
 #include <algorithm>
 using namespace std;
 

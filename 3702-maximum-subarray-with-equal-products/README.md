@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-subarray-with-equal-products">Maximum Subarray With Equal Products</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>.</p>
+srghfsdzgvfzgjfbiughabjiuoahgih<h2><a href="https://leetcode.com/problems/maximum-subarray-with-equal-products">Maximum Subarray With Equal Products</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>.</p>
 
 <p>An array <code>arr</code> is called <strong>product equivalent</strong> if <code>prod(arr) == lcm(arr) * gcd(arr)</code>, where:</p>
 

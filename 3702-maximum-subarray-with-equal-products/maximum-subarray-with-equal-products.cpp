@@ -1,4 +1,4 @@
-dgfzhjsdgdfgvzuv#include <vector>
+#include <vector>
 #include <numeric>
 #include <algorithm>
 
